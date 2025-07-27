@@ -43,6 +43,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/ian.nasser?igsh=MTF4OXhkeGVhYzF0Zw=="
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@roynasser00?_t=ZM-8yNjOBy4qi0&_r=1"
+
 
 footer:
   links:

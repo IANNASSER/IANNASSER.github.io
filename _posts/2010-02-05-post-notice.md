@@ -3,30 +3,31 @@ title: "Post: Notice"
 categories:
   - Blog
 tags:
+  - Cybersecurity
   - Post Formats
-  - notice
+  - Notice
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+A notice displays information that explains nearby content. Often used to call attention to a particular detail—especially important in cybersecurity and digital communications.
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element.
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
+**Changes in Service:** We have recently updated our [privacy policy](#) to further protect our users' data and privacy. Please review the changes for your awareness.
 {: .notice}
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Cybersecurity Tip:** Always use strong, unique passwords and enable multi-factor authentication for your accounts.
 {: .notice--primary}
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Info Notice:** New blog posts on AI in cybersecurity and digital forensics are now available. [Check them out here](#).
 {: .notice--info}
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Warning Notice:** Suspicious activity detected—please ensure your systems are patched and up-to-date to avoid vulnerabilities.
 {: .notice--warning}
 
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Danger Notice:** Recent reports of phishing and ransomware attacks targeting Nairobi organizations. Stay vigilant and verify any unexpected messages.
 {: .notice--danger}
 
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
+**Success Notice:** Congratulations to our cybersecurity students for completing the latest round of hands-on AI training!
 {: .notice--success}
 
 Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
@@ -35,8 +36,9 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 {% raw %}{% capture notice-2 %}
 #### New Site Features
 
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
+* Cover images now supported on blog pages
+* Auto-save for drafts while writing
+* New cybersecurity resources section live
 {% endcapture %}{% endraw %}
 
 <div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
@@ -45,8 +47,9 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 {% capture notice-2 %}
 #### New Site Features
 
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
+* Cover images now supported on blog pages
+* Auto-save for drafts while writing
+* New cybersecurity resources section live
 {% endcapture %}
 
 <div class="notice">

@@ -1,4 +1,5 @@
 title: "ROY IAN NASSER"
+theme: jekyll-theme-minimal
 email: iannasser992@gmail.com
 description: >-
   I am a dedicated student at KCA University, currently pursuing a degree in Information Security and Forensics. With a deep passion for technology, I enjoy building and designing innovative solutions, and I am particularly enthusiastic about exploring the latest trends in artificial intelligence and its transformative impact on society. I am an avid learner, frequently tackling hands-on labs and capture-the-flag (CTF) challenges, and I actively participate in tech events to broaden my skills and network with like-minded individuals. Beyond academics and technology, I am a trained first aider, and I enjoy playing basketball, swimming, and engaging in activities that challenge both my body and mind. I am committed to continuous growth, both personally and professionally, and strive to make a positive impact in the field of cybersecurity.
@@ -6,9 +7,6 @@ twitter_username: nasser_roy992
 github_username: IANNASSER
 search: true
 
-# Minimal Mistakes remote theme and skin
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "navy"  # Navy blue theme as you requested
 
 markdown: kramdown
 

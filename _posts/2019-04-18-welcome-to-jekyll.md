@@ -1,29 +1,37 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Welcome to My Cybersecurity Portfolio!"
+date: 2025-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
+  - Cybersecurity
+  - Portfolio
   - Jekyll
-  - update
+  - Update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to my cybersecurity portfolio! My name is **Roy Ian Nasser**, and this site is dedicated to showcasing my passion, projects, and journey in the world of cybersecurity.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+You'll find this post in the `_posts` directory. Go ahead and explore my site to see the different sections where I share my projects, write-ups, and CTF (Capture The Flag) experiences. This portfolio is built with Jekyll, inspired by the Minimal Mistakes theme, to keep things clean, focused, and professional—just like the discipline required in cybersecurity.
 
-Jekyll also offers powerful support for code snippets:
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. I use this space to document my ongoing learning, insights from security challenges, and updates about my professional journey.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+Here's a sample of how I like to share code and concepts:
+
+```python
+def cyber_defense(message):
+    print(f"Securing: {message}")
+
+cyber_defense('your digital world')
+#=> prints 'Securing: your digital world' to STDOUT.
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Feel free to browse through my [other blog posts](/blog/) for in-depth security write-ups, project breakdowns, and tips for aspiring cybersecurity professionals.
+
+If you're interested in learning more about Jekyll, check out the [Jekyll docs][jekyll-docs]. For questions about my work or collaboration opportunities, [connect with me](/about/)!
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+---
+
+Thank you for visiting my portfolio! I hope my journey inspires you as much as cybersecurity inspires me.

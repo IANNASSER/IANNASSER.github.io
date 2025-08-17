@@ -1,10 +1,10 @@
-title: ROY IAN NASSER
+title: "ROY IAN NASSER"
 email: iannasser992@gmail.com
 description: >-
   I am a dedicated student at KCA University, currently pursuing a degree in Information Security and Forensics. With a deep passion for technology, I enjoy building and designing innovative solutions, and I am particularly enthusiastic about exploring the latest trends in artificial intelligence and its transformative impact on society. I am an avid learner, frequently tackling hands-on labs and capture-the-flag (CTF) challenges, and I actively participate in tech events to broaden my skills and network with like-minded individuals. Beyond academics and technology, I am a trained first aider, and I enjoy playing basketball, swimming, and engaging in activities that challenge both my body and mind. I am committed to continuous growth, both personally and professionally, and strive to make a positive impact in the field of cybersecurity.
 twitter_username: nasser_roy992
 github_username: IANNASSER
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: navy
 search: true
 
 markdown: kramdown
@@ -17,7 +17,7 @@ timezone: Africa/Nairobi
 
 author:
   name   : "ROY IAN NASSER"
-  avatar : "/assets/images/WhatsApp Image 2025-06-22 at 20.52.16_7d4e0846.jpg" # Update with your exact file name if different
+  avatar : "/assets/images/WhatsApp Image 2025-06-22 at 20.52.16_7d4e0846.jpg"
   bio    : "Student at KCA University pursuing Information Security and Forensics. Passionate about technology, cybersecurity, AI, and active in labs, CTFs, and tech events. Trained first aider. Basketball and swimming enthusiast."
   links:
     - label: "LinkedIn"
@@ -32,7 +32,6 @@ author:
     - label: "TikTok"
       icon: "fab fa-fw fa-tiktok"
       url: "https://www.tiktok.com/@roynasser00?_t=ZM-8yNjOBy4qi0&_r=1"
-
 
 footer:
   links:
@@ -49,6 +48,15 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/ian.nasser?igsh=MTF4OXhkeGVhYzF0Zw=="
 
+# Enable Projects and Labs as Portfolio Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+  labs:
+    output: true
+    permalink: /labs/:title/
+
 defaults:
   - scope:
       path: ""
@@ -63,6 +71,18 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: labs
     values:
       layout: single
       author_profile: true

@@ -28,9 +28,8 @@ As you explore my site, you’ll see how I approach cybersecurity as both a scie
 
 Feel free to connect with me or reach out for collaborations!
 
-- **Email:** [YourEmail@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Other Socials:** [Add if applicable]
+- **Email:** [iannasser992@gmail.com]
+- **LinkedIn:** www.linkedin.com/in/roy-nasser
 
 ---
 

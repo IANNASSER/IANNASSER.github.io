@@ -1,86 +1,92 @@
-title: ROY IAN NASSER
-email: iannasser992@gmail.com
-description: >-
-  I am a dedicated student at KCA University, currently pursuing a degree in Information Security and Forensics. With a deep passion for technology, I enjoy building and designing innovative solutions, and I am particularly enthusiastic about exploring the latest trends in artificial intelligence and its transformative impact on society. I am an avid learner, frequently tackling hands-on labs and capture-the-flag (CTF) challenges, and I actively participate in tech events to broaden my skills and network with like-minded individuals. Beyond academics and technology, I am a trained first aider, and I enjoy playing basketball, swimming, and engaging in activities that challenge both my body and mind. I am committed to continuous growth, both personally and professionally, and strive to make a positive impact in the field of cybersecurity.
-twitter_username: nasser_roy992
-github_username: IANNASSER
-minimal_mistakes_skin: dark
-search: true
+title: "Roy Ian Nasser | Cybersecurity Portfolio"
+description: "The digital identity and portfolio of Roy Ian Nasser – Cybersecurity Enthusiast, Ethical Hacker, and Digital Defender."
+url: "https://IANNASSER.github.io"
+baseurl: "" # leave blank for GitHub Pages user site
+repository: "IANNASSER/portfolio" # update if your repo name is different
 
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# Theme Configuration
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "navy" # navy blue skin for a professional look
 
-permalink: /:categories/:title/
-paginate: 5
-paginate_path: /page:num/
-timezone: Africa/Nairobi
-
-include:
-  - _pages
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
+# Author details
 author:
-  name   : "ROY IAN NASSER"
-  avatar : "/assets/images/WhatsApp Image 2025-06-22 at 20.52.16_7d4e0846.jpg" # Update with your exact file name if different
-  bio    : "Student at KCA University pursuing Information Security and Forensics. Passionate about technology, cybersecurity, AI, and active in labs, CTFs, and tech events. Trained first aider. Basketball and swimming enthusiast."
+  name: "Roy Ian Nasser"
+  avatar: "/assets/images/roy-nasser.jpg" # Place your photo here
+  bio: "Passionate Cybersecurity Enthusiast dedicated to safeguarding digital assets and promoting ethical hacking practices."
+  location: "Nairobi, Kenya"
+  linkedin: "https://www.linkedin.com/in/roy-nasser"
+  github: "https://github.com/IANNASSER"
+  email: "your.email@example.com" # <-- Replace with your actual email
+
+# Navigation
+header_pages:
+  - index.md
+  - resume.md
+  - projects.md
+  - labs.md
+  - contact.md
+
+# Collections for Projects and Labs
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+  labs:
+    output: true
+    permalink: /labs/:title/
+
+# Social Links
+social:
+  type:  "Person"
+  name:  "Roy Ian Nasser"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/roy-nasser"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/IANNASSER"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/ian.nasser?igsh=MTF4OXhkeGVhYzF0Zw=="
-    - label: "TikTok"
-      icon: "fab fa-fw fa-tiktok"
-      url: "https://www.tiktok.com/@roynasser00?_t=ZM-8yNjOBy4qi0&_r=1"
+    - "https://www.linkedin.com/in/roy-nasser"
+    - "https://github.com/IANNASSER"
+    - "mailto:your.iannasser992@gmail.com" # <-- Replace with your actual email
 
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
 
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/roy-nasser"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/nasser_roy992?s=08"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/IANNASSER"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/ian.nasser?igsh=MTF4OXhkeGVhYzF0Zw=="
-
+# Defaults for posts/projects/labs
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: "projects"
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: "labs"
     values:
       layout: single
       author_profile: true
+      read_time: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Markdown Processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+
+# Permalinks
+permalink: pretty

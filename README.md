@@ -1,13 +1,8 @@
 # Roy Ian Nasser | Cybersecurity Portfolio
 
-Welcome to my portfolio! My name is **Roy Ian Nasser**, and this site is a reflection of my journey, passion, and commitment to cybersecurity.
+Welcome to my portfolio!, and this site is a reflection of my journey, passion, and commitment to cybersecurity.
 
 ## 🚀 About This Portfolio
-
-From the moment I discovered the intricate world of cybersecurity, I was captivated—not just by the challenge of defending digital frontiers, but by the artistry of problem-solving it demands. Every vulnerability is a puzzle waiting to be solved, and every solution is a story of resilience and creativity.
-
-I’ve chosen to build my portfolio using [Jekyll’s Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme because it perfectly reflects my approach to cybersecurity: clean, focused, and purposeful. In cybersecurity, clarity is everything—an effective defense is never cluttered, always precise. Minimal Mistakes’ design philosophy mirrors this ethos, allowing my work and passion to take center stage without distraction.
-
 This site is more than a collection of projects; it’s a chronicle of my dedication to learning, growing, and contributing to the cybersecurity community. Each project, write-up, and capture-the-flag challenge featured here showcases not only my technical skills but also the curiosity and persistence that drive me to dig deeper.
 
 As you explore my site, you’ll see how I approach cybersecurity as both a science and an art—where every detail matters, and every challenge is an opportunity to innovate.

@@ -1,5 +1,3 @@
-# Welcome
-
 Hi, I’m Roy Ian Nasser, a passionate Cybersecurity Enthusiast dedicated to safeguarding digital assets and promoting ethical hacking practices.
 
 ## About Me

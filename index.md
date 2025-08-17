@@ -1,4 +1,9 @@
-# Welcome
+---
+layout: home
+author_profile: true
+title: "Welcome"
+excerpt: "Minimal, focused, and committed to cybersecurity excellence."
+---
 
 Hi, I’m Roy Ian Nasser, a passionate Cybersecurity Enthusiast dedicated to safeguarding digital assets and promoting ethical hacking practices.
 
@@ -31,7 +36,6 @@ I hold a qualification from KCA University, where I specialized in the foundatio
 - KCA University – IT & Cybersecurity
 
 ## Get in Touch
-
 
 > *“Securing the future, one byte at a time.”*  
 > *Minimal, focused, and committed to cybersecurity excellence.*

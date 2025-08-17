@@ -6,8 +6,11 @@ twitter_username: nasser_roy992
 github_username: IANNASSER
 search: true
 
+# Minimal Mistakes remote theme and skin
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "navy"  # Navy blue theme as you requested
+
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
 
 permalink: /:categories/:title/
 paginate: 5

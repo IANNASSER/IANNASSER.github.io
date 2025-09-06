@@ -1,52 +1,78 @@
 ---
-title: 'About'
-date: 2018-02-22T17:01:34+07:00
+title: 'About ROYAL NIGHT'
+date: 2024-01-01T00:00:00+00:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+![ROYAL NIGHT - Cybersecurity Professional](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+## Professional Background
 
-## Ne verba patulosque numen vix libet
+I am ROYAL NIGHT, a dedicated cybersecurity professional with over 2 years of hands-on experience in protecting organizations from digital threats. My journey in cybersecurity has been driven by a passion for understanding and mitigating the complex security challenges that modern organizations face.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Throughout my career, I have developed expertise in identifying vulnerabilities, conducting thorough security assessments, and implementing robust defense mechanisms. I believe in a proactive approach to cybersecurity, staying ahead of emerging threats through continuous learning and practical application of security best practices.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Core Competencies
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+My technical expertise encompasses a comprehensive range of cybersecurity domains:
 
-## Postquam tamen
+### **Penetration Testing & Vulnerability Assessment**
+- Web application security testing
+- Network penetration testing
+- Infrastructure vulnerability assessments
+- Social engineering assessments
+- Red team exercises
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+### **Incident Response & Digital Forensics**
+- Security incident investigation
+- Malware analysis and reverse engineering
+- Digital evidence collection and preservation
+- Incident containment and recovery
+- Post-incident analysis and reporting
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+### **Security Architecture & Implementation**
+- Security framework implementation (NIST, ISO 27001)
+- Identity and access management (IAM)
+- Network security design and implementation
+- Security policy development and enforcement
+- Risk assessment and management
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+### **Tools & Technologies**
+- **Penetration Testing**: Metasploit, Burp Suite, Nmap, OWASP ZAP, Wireshark
+- **Forensics**: Autopsy, Volatility, FTK, EnCase
+- **SIEM/SOC**: Splunk, ELK Stack, QRadar, Sentinel
+- **Cloud Security**: AWS Security, Azure Security, GCP Security
+- **Programming**: Python, PowerShell, Bash, SQL
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Professional Philosophy
+
+I believe that effective cybersecurity requires a balance of technical expertise, strategic thinking, and continuous adaptation. The threat landscape is constantly evolving, and staying current with the latest attack vectors, defense mechanisms, and industry best practices is essential for success in this field.
+
+My approach combines hands-on technical skills with a deep understanding of business risk, ensuring that security measures align with organizational objectives while providing robust protection against both current and emerging threats.
+
+## Professional Certifications & Education
+
+### Certifications
+- **CompTIA Security+** - Security fundamentals and best practices
+- **Certified Ethical Hacker (CEH)** - Ethical hacking and penetration testing
+- **AWS Security Fundamentals** - Cloud security architecture
+- **ISO 27001 Lead Auditor** - Information security management systems
+
+### Education & Training
+- **Cybersecurity Bootcamp** - Intensive hands-on security training
+- **Network Security Specialization** - Advanced networking and security protocols
+- **Incident Response Training** - Security incident handling and forensics
+- **Continuous Learning** - Regular participation in security conferences and workshops
+
+## Professional Affiliations
+
+- **OWASP Kenya Chapter** - Active member and contributor
+- **ISACA Kenya** - Information Systems Audit and Control Association
+- **Cybersecurity Professionals Network** - Local professional networking group
+- **Bug Bounty Programs** - Active participant in responsible disclosure programs
+
+## Languages & Communication
+
+- **English**: Fluent (Professional working proficiency)
+- **Swahili**: Native speaker
+- **Arabic**: Conversational
+- **Technical Writing**: Experienced in security documentation and reporting
